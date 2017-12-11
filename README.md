@@ -11,7 +11,7 @@
 * [Transpose](https://en.wikipedia.org/wiki/Transpose)
 #### Resources
 * Data Science from Scratch - Chapter 4
-* Linear Algebra, from UC Davis
+* [Linear Algebra, from UC Davis](https://www.math.ucdavis.edu/~linear/linear-guest.pdf)
 * [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 * [Khan Academy - Matrices](https://www.khanacademy.org/math/precalculus/precalc-matrices)
 
